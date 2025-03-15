@@ -1,0 +1,3 @@
+box text on cards
+place it in noisy environment
+finetune tesseract
